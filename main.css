@@ -63,7 +63,7 @@ nav img{
   font-size: 14px;
   color:#fff;
 }
-.btn {
+.button1{
   display: inline-block;
   text-decoration: none;
   background: transparent;
@@ -73,7 +73,7 @@ nav img{
   font-size: 13px;
   position:relative;
 }
-.btn:hover{
+.button1:hover{
   border: 1px solid #3fadc4;
   background: #3fadc4;
   transition: 1s;
